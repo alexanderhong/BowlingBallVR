@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SodaHacks", "Assembly-CSharp.csproj", "{D416AA9A-DE17-3391-B88F-6AD5FEDD1D35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SodaHacks", "Assembly-CSharp-Editor.csproj", "{F147E54D-74F1-DA51-5932-0CE7CFD0D8BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D416AA9A-DE17-3391-B88F-6AD5FEDD1D35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D416AA9A-DE17-3391-B88F-6AD5FEDD1D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D416AA9A-DE17-3391-B88F-6AD5FEDD1D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D416AA9A-DE17-3391-B88F-6AD5FEDD1D35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F147E54D-74F1-DA51-5932-0CE7CFD0D8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F147E54D-74F1-DA51-5932-0CE7CFD0D8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F147E54D-74F1-DA51-5932-0CE7CFD0D8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F147E54D-74F1-DA51-5932-0CE7CFD0D8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
